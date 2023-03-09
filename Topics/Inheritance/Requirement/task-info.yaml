@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: The class should be in public package
+- text: At least one function of this class must be open
+- text: The class can't have any functions
+- text: All the functions of this class must be open
+- text: The class must be open
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7772#comment
+status: Solved
+record: -1
+local_check: false

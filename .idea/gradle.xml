@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Indigo Card Game/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Allowance for constructors" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Allowance for functions" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Generated functions" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Illegal to override" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Not overridable" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Room mystery" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/We are students" />
+            <option value="$PROJECT_DIR$/Topics/Data class/copy() usage" />
+            <option value="$PROJECT_DIR$/Topics/Data class/equals() check" />
+            <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Comprehension of inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Constructing a hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Create a child class" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Default modifiers" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Keyword" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Requirement" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Statements about inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Woof" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Avoiding an NPE" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Check length" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Fake operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Nullable Boolean" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Operator name" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Safe round" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/The  !!  operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Assign null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Line length" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/NPE" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Null or not null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Nullable variables" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/String nullable" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Bottles fix" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Override forget" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Override the candidate" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Bikini Bottom" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Can it go through" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Hello" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Oops, something went wrong" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Reverse me if you can" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String length" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String or Int" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Super super type" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Supertype" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Espresso" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Function name" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Latte" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Mochaccino" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/Topics/toString()/toString() types" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

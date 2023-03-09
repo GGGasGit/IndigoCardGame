@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Overriding_functions-Override_the_candidate" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Overriding functions/Override the candidate" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Indigo Card Game" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Overriding functions/Override the candidate">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Overriding functions/Override the candidate/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Overriding functions/Override the candidate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Overriding functions/Override the candidate/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

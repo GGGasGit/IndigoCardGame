@@ -1,0 +1,12 @@
+<h2>Espresso</h2>
+<p></p>
+<p>Select the correct output of the code below:</p>
+<pre><code class="language-kotlin">open class Drink(val cost: Int) {
+    override fun toString() = "cost=$cost, name=Drink"
+}
+
+class Coffee(cost: Int, val name: String): Drink(cost) {
+    override fun toString() = "cost=$cost, name=$name"
+}
+
+println(Coffee(10, "Espresso"))</code></pre>

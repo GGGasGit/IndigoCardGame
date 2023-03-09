@@ -1,0 +1,10 @@
+<h2>Bottles fix</h2>
+<p></p>
+<p>How to fix the following snippet of code?</p>
+<pre><code class="language-kotlin">open class Bottle(val volume: Float) {
+    open fun getFullInfo(): String = "$volume volume"
+}
+
+open class GlassBottle(volume: Float, val color: String) : Bottle(volume) {
+    fun getFullInfo(): String = super.getFullInfo() + ", $color color"
+}</code></pre>

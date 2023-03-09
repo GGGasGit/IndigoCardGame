@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write your data class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20482#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Sun, 05 Mar 2023 15:45:55 UTC
+record: -1

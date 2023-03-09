@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Indigo Card Game/task/build/
+/Indigo Card Game/task/out/
+/Indigo Card Game/task/out/production/classes/
+/Topics/Data class/copy() usage/out/
+/Topics/Data class/copy() usage/out/production/classes/
+/Topics/Data class/equals() check/out/
+/Topics/Data class/equals() check/out/production/classes/
+/Topics/Data class/We are students/out/
+/Topics/Data class/We are students/out/production/classes/
+/Topics/Inheritance/Fix bugs/out/
+/Topics/Inheritance/Fix bugs/out/production/classes/
+/Topics/Null safety/Elvis throwing exceptions/out/
+/Topics/Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Nullable and non-nullable types/Line length/out/
+/Topics/Nullable and non-nullable types/Line length/out/production/classes/
+/Topics/toString()/Tea/out/
+/Topics/toString()/Tea/out/production/classes/
+/Topics/Type system/Reverse me if you can/out/
+/Topics/Type system/Reverse me if you can/out/production/classes/

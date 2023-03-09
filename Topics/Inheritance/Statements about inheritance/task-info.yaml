@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Kotlin supports multi-inheritance
+- text: A child class can be only an open one
+- text: An <code>open</code> modifier allows to inherit from a class
+- text: 'If we create a function for a parent class, we can''t use this function for
+    both parent and child classes '
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20489#comment
+status: Solved
+record: -1
+local_check: false

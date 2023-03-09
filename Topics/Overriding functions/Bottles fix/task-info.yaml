@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: The <code>open</code> modifier in the <code>GlassBottle</code> class must
+    be removed.
+- text: The <code>getFullInfo</code> function in the <code>GlassBottle</code> class
+    must have an <code>override</code> modifier.
+- text: The <code>super</code> keyword must be removed.
+- text: The <code>getFullInfo</code> function in the <code>GlassBottle</code> class
+    must have an <code>open</code> modifier.
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7886#comment
+status: Solved
+record: -1
+local_check: false
